@@ -1,4 +1,5 @@
-#Snake Game for Android
+# Snake Game for Android
+
 How to Run:
 
 To run the app, first unzip the file. Next, open android studio and select the option to open an existin project. Navigate to the folder you just unzipped and select it as the directory. After the app finishes building, connect an Android device, click 'Run' at the top of Android Studio, then select the devce. Android Studio will install and run the app on the device.
